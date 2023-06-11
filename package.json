@@ -1,0 +1,37 @@
+{
+  "name": "rypjaws",
+  "displayName": "rypjaws",
+  "description": "Vibrant teal theme for an enhanced VS Code coding experience",
+  "version": "0.0.1",
+  "icon": "assets/RypJaws.png",
+  "publisher": "mihirpanchal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MihirRajeshPanchal/rypjaws"
+  },
+  "keywords": [
+    "rypjaws",
+    "ben 10",
+    "mihir",
+    "panchal",
+    "teal",
+    "color theme",
+    "teal color theme",
+    "ripjaws"
+  ],
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "rypjaws",
+        "uiTheme": "hc-light",
+        "path": "./themes/rypjaws-color-theme.json"
+      }
+    ]
+  }
+}
