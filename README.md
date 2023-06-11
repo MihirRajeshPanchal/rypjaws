@@ -1,7 +1,10 @@
 # Rypjaws VS Code Theme Extension
 
-![Rypjaws VS Code Theme](assets\RypJaws.png)
-
+<p align="center">
+<img src="assets/RypJaws.png" alt="Rypjaws VS Code Theme">
+  <br>
+  Rypjaws
+</p>
 Welcome to the Rypjaws VS Code Theme Extension! This extension brings the Rypjaws theme to your Visual Studio Code editor, providing a stylish and immersive coding experience.
 
 ## Features
