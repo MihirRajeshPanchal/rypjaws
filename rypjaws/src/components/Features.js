@@ -30,7 +30,7 @@ const Card = ({ heading, description, icon, href }: CardProps) => {
     return () => {
       observer.disconnect();
     };
-  }, []);
+  }, [handleIntersection]);
 
   return (
     <motion.div
