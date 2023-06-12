@@ -32,6 +32,9 @@ To activate the Rypjaws theme, follow these steps:
 3. Scroll through the available themes and choose "Rypjaws" from the options.
 4. The Rypjaws theme will be applied immediately.
 
+## Website 
+Please do visit our website for more information at [Rypjaws](https://rypjaws.netlify.app/)
+
 ## Feedback and Contributions
 
 Feedback and contributions are always welcome! If you encounter any issues, have suggestions for improvements, or would like to contribute to the project, please visit the [GitHub repository](https://github.com/MihirRajeshPanchal/rypjaws) for the Rypjaws VS Code Theme Extension.
