@@ -1,4 +1,4 @@
-import { Box, Button, Container, Flex, Heading, Icon, Stack, Text, useColorModeValue } from '@chakra-ui/react';
+import { Box, Container, Flex, Heading, Icon, Stack, Text, useColorModeValue } from '@chakra-ui/react';
 import { ReactElement, useEffect, useRef } from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { FcBriefcase, FcTreeStructure, FcLineChart, FcMultipleDevices, FcBullish } from 'react-icons/fc';
@@ -14,6 +14,7 @@ const Card = ({ heading, description, icon, href }: CardProps) => {
   const controls = useAnimation();
   const cardRef = useRef(null);
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const handleIntersection = (entries) => {
     const [entry] = entries;
     if (entry.isIntersecting) {
