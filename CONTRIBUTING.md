@@ -17,24 +17,24 @@ Below you will find the process and workflow used to review and merge your chang
 
 
 3. Once you are in your fork the url should look something like
-`https://github.com/<YOUR-USERNAME>/Face-X/`
+`https://github.com/<YOUR-USERNAME>/rypjaws/`
 
 4. Go to preferred folder in your computer and paste the following command (Only one of it if you don't have ssh setup then go with HTTP command)
 - For HTTP
  ```
-   git clone https://github.com/<YOUR-USERNAME>/Face-X.git
+   git clone https://github.com/<YOUR-USERNAME>/rypjaws.git
  ```
 - For SSH
  ```bash
-   git clone git@github.com:<YOUR-USERNAME>/Face-X.git
+   git clone git@github.com:<YOUR-USERNAME>/rypjaws.git
  ```
 
 5. Now enter the folder by running the following command
 ```bash
-cd Face-X
+cd rypjaws
 ```
 
-5. Now you are in the `Face-X` folder
+5. Now you are in the `rypjaws` folder
 
 6. Now do ahead and create a new branch and move to the branch
 ```bash
