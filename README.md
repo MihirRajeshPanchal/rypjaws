@@ -7,6 +7,13 @@
 </p>
 Welcome to the Rypjaws VS Code Theme Extension! This extension brings the Rypjaws theme to your Visual Studio Code editor, providing a stylish and immersive coding experience.
 
+<p align="center">
+  <img src="assets/Output.png" alt="Output" width="1000">
+  <br>
+  Working
+</p>
+
+
 ## Features
 
 - **Elegant Color Scheme:** Rypjaws theme offers a carefully chosen set of colors that are easy on the eyes and enhance your focus on the code.
