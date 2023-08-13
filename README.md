@@ -40,7 +40,7 @@ To activate the Rypjaws theme, follow these steps:
 4. The Rypjaws theme will be applied immediately.
 
 ## Website 
-Please do visit our website for more information at [Rypjaws](https://rypjaws.netlify.app/)
+Please do visit our website for more information at [Rypjaws](https://rypjaws.netlify.app/) <br>
 Docker Repository [Docker](https://hub.docker.com/r/mihir5400/rypjaws-extension)
 
 ## Feedback and Contributions
